@@ -1,4 +1,4 @@
-This repository contains Kaldi and python scripts for two datasets:
+This repository contains Kaldi and python scripts that perform diarization on two datasets:
 
 1) Callhome (see v2-1/run.sh and v2-2/run.sh)
 2) CUHK-NCD (see v2-1/run_cuhkncd.sh and v2-2/run_cuhkncd.sh)
